@@ -1,40 +1,34 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-
-    {% if site.google_analytics %}
-      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-        gtag('config', '{{ site.google_analytics }}');
-      </script>
-    {% endif %}
     <meta charset="UTF-8">
 
-{% seo %}
+    {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
   <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
+      <a href="https://github.com/jpollmann102"><img src="{{ site.url }}/assets/images/icons8-octocat-48.png" title="github" alt="github"></a>
+      <a href="https://www.linkedin.com/in/joshua-pollmann-77b885170/"><img src="{{ site.url }}/assets/images/icons8-linkedin-48.png" title="linkedin" alt="linkedin"></a>
+      <a href="https://www.instagram.com/rajpollmann/"><img src="{{ site.url }}/assets/images/icons8-instagram-old-48.png" title="instagram" alt="instagram"></a>
+      <a href="https://steamcommunity.com/id/Raj_Mahal/"><img src="{{ site.url }}/assets/images/icons8-steam-48.png" title="steam" alt="steam"></a>
+      <a href="https://twitter.com/JoshPollmann"><img src="{{ site.url }}/assets/images/icons8-twitter-48.png" title="twitter" alt="twitter"></a>
+      <!-- {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
+      {% endif %} -->
     </header>
 
     <main id="content" class="main-content" role="main">
+      {% include nav.html %}
+
+      <hr />
+
       {{ content }}
 
       <footer class="site-footer">
