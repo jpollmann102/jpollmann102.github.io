@@ -12,7 +12,7 @@ title: Resume
 
 # Education
 ## University of Central Florida
-GPA: 3.26
+GPA: 3.22
 May 2019
 
 # Honors
