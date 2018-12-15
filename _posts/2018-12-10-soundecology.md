@@ -1,5 +1,6 @@
 ---
 layout: post
+excerpt: I'm currently in my senior year of college and working on my senior design project. Our project summarized is analysis software for big data sets of sound files from researchers studying soundscape ecology.
 ---
 Sound Ecology is.. interesting.
 
