@@ -9,17 +9,21 @@ title: Repos
 
 Worms Tracker is an app I built on Android solely for keeping track of stats from a game my friends and I play called Worms Clan Wars. We like to play this together over breaks from school when we all have time, and we treat this time as sort of 'Worm Seasons' and I figured it'd be easier to keep track of our point systems this way.
 
-## [Conway's Game of Life](https://github.com/jpollmann102/Conway-Game-of-Life)
+## [NFL Game Predictions](https://github.com/jpollmann102/sports-predictions)
 
-I did this a few years ago to try and learn how to program GUIs better in Java. From what I remember, a lot of this was done with thanks to other repos and tutorials out there. Conway's Game of Life is supposed to simulate how population sizes affect population growth due to overcrowding or low population size.
+Here in my senior year I've finally decided to actually do something machine learning oriented, so I'm taking my winter break and working on things like this. Written in python using scikit-learn, this takes in some CSV files and runs Poisson calculations on home and away scores for the 2016-2017 season to predict the 2017-2018 scores. It can predict the winner with 62% accuracy, but predicting scores and lines is a bit more difficult for this model.
+
+## [CV Creator](https://github.com/GearTech0/CV-Creator)
+
+Another assignment, this one for Processes for Object Orientated Programming. This was a semester long group assignment. This website allows the user to input curriculum vitae information and choose a template they like, and have it all output to a pdf file. I was in charge of a lot of the backend work, and creating the templates with PHP and SQL commands. This one was a lot of hard work as well.
 
 ## [PL0 Compiler](https://github.com/jpollmann102/PL0-Compiler)
 
 This was an assignment for Software Systems, and it is quite a doozy. This is one of my favorite things I've done, it really taught me a lot about how compilation works and definitely helped my C skills out. I remember I did the parser wrong and rewrote the _entire_ thing in one night, only to have done it wrong again. Ended up figuring it out eventually, and did well overall in the final assignment.
 
-## [CV Creator](https://github.com/GearTech0/CV-Creator)
+## [Conway's Game of Life](https://github.com/jpollmann102/Conway-Game-of-Life)
 
-Another assignment, this one for Processes for Object Orientated Programming. This was a semester long group assignment. This website allows the user to input curriculum vitae information and choose a template they like, and have it all output to a pdf file. I was in charge of a lot of the backend work, and creating the templates with PHP and SQL commands. This one was a lot of hard work as well.
+I did this a few years ago to try and learn how to program GUIs better in Java. From what I remember, a lot of this was done with thanks to other repos and tutorials out there. Conway's Game of Life is supposed to simulate how population sizes affect population growth due to overcrowding or low population size.
 
 ## [Pong](https://github.com/jpollmann102/Pong)
 
