@@ -57,8 +57,10 @@ Enterprise Computing
 # Skills
 _**Programming**_
 
-Highly skilled in Java, proficient in C, HTML, CSS, PHP, Haskell, knowledge in JavaScript, Python, R
+Highly skilled in Java, proficient in C, HTML, CSS, knowledge in JavaScript, Python, R, PHP, Haskell
 
-_**Computer**_
+Proficient in Git, Latex, knowledge in using Octave, XCode, Android Studio, Wordpress
+
+_**Certifications**_
 
 Certified in Microsoft Office (Word, Excel, Access, Powerpoint)
