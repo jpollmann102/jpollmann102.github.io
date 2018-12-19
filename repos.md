@@ -9,6 +9,10 @@ title: Repos
 
 Worms Tracker is an app I built on Android solely for keeping track of stats from a game my friends and I play called Worms Clan Wars. We like to play this together over breaks from school when we all have time, and we treat this time as sort of 'Worm Seasons' and I figured it'd be easier to keep track of our point systems this way.
 
+## [Wine Predictor](https://github.com/jpollmann102/wine-predictor/tree/master)
+
+This program uses the popular wine data set (13 features, 3 classes) and uses logistic regression to predict the wine types given some new features, with 93% accuracy! I did a lot of this program on my own, the code I wrote being commented out, after going through the Stanford ML course online. So here, I utilized that knowledge to write the program (mostly), but then used scikit-learn to implement it in minimal lines of code.
+
 ## [NFL Game Predictions](https://github.com/jpollmann102/sports-predictions)
 
 Here in my senior year I've finally decided to actually do something machine learning oriented, so I'm taking my winter break and working on things like this. Written in python using scikit-learn, this takes in some CSV files and runs Poisson calculations on home and away scores for the 2016-2017 season to predict the 2017-2018 scores. It can predict the winner with 62% accuracy, but predicting scores and lines is a bit more difficult for this model.
