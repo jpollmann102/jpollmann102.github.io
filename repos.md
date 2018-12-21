@@ -15,7 +15,7 @@ This program uses the popular wine data set (13 features, 3 classes) and uses lo
 
 ## [NFL Game Predictions](https://github.com/jpollmann102/sports-predictions)
 
-Here in my senior year I've finally decided to actually do something machine learning oriented, so I'm taking my winter break and working on things like this. Written in python using scikit-learn, this takes in some CSV files and runs Poisson calculations on home and away scores for the 2016-2017 season to predict the 2017-2018 scores. It can predict the winner with 62% accuracy, but predicting scores and lines is a bit more difficult for this model.
+Here in my senior year I've finally decided to actually do something machine learning oriented, so I'm taking my winter break and working on things like this. Written in python using scikit-learn, this takes in some CSV files and runs the logistic regression algorithm on team stats and game outcomes from the 2017-2018 season and can predict the scores from that season with 81% accuracy. Currently, I am using it for predicting the week 16 scores, currently at 71% accuracy.
 
 ## [CV Creator](https://github.com/GearTech0/CV-Creator)
 
