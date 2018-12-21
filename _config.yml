@@ -2,3 +2,5 @@ title: Josh Pollmann
 description: I'm pretty good at computers I think
 repository: jpollmann102/jpollmann102.github.io
 theme: jekyll-theme-cayman
+# Google Analytics
+google_analytics: UA-131255669-1
