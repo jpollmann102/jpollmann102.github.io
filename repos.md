@@ -17,6 +17,10 @@ This program uses the popular wine data set (13 features, 3 classes) and uses lo
 
 Here in my senior year I've finally decided to actually do something machine learning oriented, so I'm taking my winter break and working on things like this. Written in python using scikit-learn, this takes in some CSV files and runs the logistic regression algorithm on team stats and game outcomes from the 2017-2018 season and can predict the scores from that season with 81% accuracy. Currently, I am using it for predicting the week 16 scores, currently at 71% accuracy.
 
+## [Sports Stats Web Scraper](https://github.com/jpollmann102/sports-web-scraper)
+
+This is a web scraper to go along with the sports predictions I've been working on. This retrieves data for the NFL and NBA, with more sports to come as I get to them.
+
 ## [CV Creator](https://github.com/GearTech0/CV-Creator)
 
 Another assignment, this one for Processes for Object Orientated Programming. This was a semester long group assignment. This website allows the user to input curriculum vitae information and choose a template they like, and have it all output to a pdf file. I was in charge of a lot of the backend work, and creating the templates with PHP and SQL commands. This one was a lot of hard work as well.
