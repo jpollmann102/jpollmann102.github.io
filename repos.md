@@ -9,17 +9,21 @@ title: Repos
 
 Worms Tracker is an app I built on Android solely for keeping track of stats from a game my friends and I play called Worms Clan Wars. We like to play this together over breaks from school when we all have time, and we treat this time as sort of 'Worm Seasons' and I figured it'd be easier to keep track of our point systems this way.
 
+## [Is This A Cat](https://github.com/jpollmann102/is-this-a-cat)
+
+Using Tensorflow and the internet, this program teaches a Convolutional Neural Network to differentiate between cats and.. not cats. The predict data contains my own cats and some random dogs I had saved on my phone.
+
 ## [Wine Predictor](https://github.com/jpollmann102/wine-predictor)
 
 This program uses the popular wine data set (13 features, 3 classes) and uses logistic regression to predict the wine types given some new features, with 93% accuracy! I did a lot of this program on my own, the code I wrote being commented out, after going through the Stanford ML course online. So here, I utilized that knowledge to write the program (mostly), but then used scikit-learn to implement it in minimal lines of code.
 
-## [NFL Game Predictions](https://github.com/jpollmann102/sports-predictions)
+## [Sports Predictions](https://github.com/jpollmann102/sports-predictions)
 
-Here in my senior year I've finally decided to actually do something machine learning oriented, so I'm taking my winter break and working on things like this. Written in python using scikit-learn, this takes in some CSV files and runs the logistic regression algorithm on team stats and game outcomes from the 2017-2018 season and can predict the scores from that season with 81% accuracy. Currently, I am using it for predicting the week 16 scores, currently at 71% accuracy.
+Here in my senior year I've finally decided to actually do something machine learning oriented, so I'm taking my winter break and working on things like this. Written in python using scikit-learn, this takes in some CSV files and runs the logistic regression algorithm on team stats and game outcomes from the 2017-2018 season and can predict the scores from that season with 81% accuracy. Currently, I am using it for predicting the week 16 scores, currently at 71% accuracy. I am working on adding the NBA as well as betting statistics and improving overall accuracy.
 
 ## [Sports Stats Web Scraper](https://github.com/jpollmann102/sports-web-scraper)
 
-This is a web scraper to go along with the sports predictions I've been working on. This retrieves data for the NFL and NBA, with more sports to come as I get to them.
+This is a web scraper to go along with the sports predictions I've been working on. This retrieves data for the NFL and NBA, with more sports to come as I get to them. As of 12/29/18 this repo has been moved to the Sports Predictions repository, and will only be updated there.
 
 ## [CV Creator](https://github.com/GearTech0/CV-Creator)
 
