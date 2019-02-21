@@ -7,8 +7,8 @@ title: Resume
 
 * Over seven years of programming/computer experience
 * Skills range from hardware installation and maintenance to software programming
-* Excellent at communicating and working in groups
-* Highly efficient when working alone
+* Excellent at communicating and working in groups, while being able to work efficiently when alone
+* Excellent technical writing skills
 
 # Education
 ## University of Central Florida
@@ -54,12 +54,19 @@ Enterprise Computing
 * Utilized programming skills to create functional additions for Microsoft Word and Excel
 * Provided technical support including setting up remote desktops and daily backup servers
 
+**University of Central Florida** | Senior Design Project | Sept 2018 - Present | Orlando FL
+* Led team as project manager, organizing and facilitating team and sponsor meetings, managing deadlines
+* Used ReactJS on the front-end team to create a functional and user-friendly interface for big data visualizations
+* Coordinated with back-end team to interface with the project’s back-end infrastructure using our API
+
 # Skills
 _**Programming**_
 
-Highly skilled in Java, proficient in C, HTML, CSS, knowledge in JavaScript, Python, R, PHP, Haskell
+Highly skilled in Java, proficient in C, HTML, CSS, Python, knowledge in PHP, Haskell, R, JavaScript
 
-Proficient in Git, Latex, knowledge in using Octave, XCode, Android Studio, Wordpress
+Knowledge in using ReactJS, Electron, Postman, MongoDB
+
+Knowledge in Git, Latex, knowledge in using Octave, XCode, Android Studio, Wordpress
 
 _**Certifications**_
 
