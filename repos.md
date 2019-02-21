@@ -21,6 +21,10 @@ This program uses the popular wine data set (13 features, 3 classes) and uses lo
 
 Here in my senior year I've finally decided to actually do something machine learning oriented, so I'm taking my winter break and working on things like this. Written in python using scikit-learn, this takes in some CSV files and runs the logistic regression algorithm on team stats and game outcomes from the 2017-2018 season and can predict the scores from that season with 81% accuracy. Currently, I am using it for predicting the week 16 scores, currently at 71% accuracy. I am working on adding the NBA as well as betting statistics and improving overall accuracy.
 
+## [Oscars Predictor](https://github.com/jpollmann102/Oscars-Predictor)
+
+This is something I whipped up somewhat quickly as I realized the Oscars were coming up in a few days, and I thought this would be another good project to work on. Again using Python and scikit learn, this program cleans up a massive database of movies and associated properties to try and predict which films are likely to win an Oscar (not any particular one, just an Oscar.)
+
 ## [Sports Stats Web Scraper](https://github.com/jpollmann102/sports-web-scraper)
 
 This is a web scraper to go along with the sports predictions I've been working on. This retrieves data for the NFL and NBA, with more sports to come as I get to them. As of 12/29/18 this repo has been moved to the Sports Predictions repository, and will only be updated there.
