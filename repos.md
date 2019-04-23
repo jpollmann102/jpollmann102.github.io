@@ -5,6 +5,10 @@ title: Repos
 
 # My Public Repos (Worth Looking At)
 
+## [Mangrove - The Soundscape Ecology Analysis Toolkit](https://github.com/jonathanbeever/mangrove)
+
+Mangrove is by far the project I am most proud of. This was my senior design project at UCF, amongst my team of 4 other great programmers. Mangrove is a place for soundscape ecology researchers to organize their data (which happens to be terabytes of sound files) and process them in order to visualize the results. Soundscape ecology is a new field with a lot of potential that I'm hoping Mangrove has a chance to be involved in as it grows larger.
+
 ## [Worms Tracker](https://github.com/jpollmann102/Worms-Tracker)
 
 Worms Tracker is an app I built on Android solely for keeping track of stats from a game my friends and I play called Worms Clan Wars. We like to play this together over breaks from school when we all have time, and we treat this time as sort of 'Worm Seasons' and I figured it'd be easier to keep track of our point systems this way.
