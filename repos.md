@@ -3,7 +3,11 @@ layout: default
 title: Repos
 ---
 
-# My Public Repos (Worth Looking At)
+# My Public Projects (Worth Looking At)
+
+## [Freshify](https://freshify.herokuapp.com)
+
+Freshify is a site I made for keeping your playlists on Spotify up to date automatically. I personally like having a playlist with new songs that I rotate in and out after a month or so. However doing so manually can be a hassle. Using Freshify, you can designate playlists and a set amount of time to remove songs after. I really learned a lot in making Freshify, I got my hands dirty with AWS in using Cognito and DynamoDB for user accounts and information. Additionally, I got experience using the Spotify API along with some user created wrappers for doing that easier. Finally, the best experience I gained was in actually finishing something I started, and getting a production build deployed somewhere where people can actually use it. In doing so I learned a lot about deploying to Heroku, and setting up projects for production. Not to mention, I have furthered my experience using Node, React and Material UI to build applications.
 
 ## [Mangrove - The Soundscape Ecology Analysis Toolkit](https://github.com/jonathanbeever/mangrove)
 

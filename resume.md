@@ -64,7 +64,7 @@ _**Programming**_
 
 Highly skilled in Java, proficient in C, HTML, CSS, Python, knowledge in PHP, Haskell, R, JavaScript
 
-Knowledge in using ReactJS, Electron, Postman, MongoDB
+Knowledge in using ReactJS, Electron, Postman, MongoDB, AWS Cognito, AWS DynamoDB
 
 Knowledge in Git, Latex, knowledge in using Octave, XCode, Android Studio, Wordpress
 
