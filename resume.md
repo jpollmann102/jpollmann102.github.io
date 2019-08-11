@@ -16,7 +16,7 @@ GPA: 3.26
 May 2019
 
 # Honors
-University of Central Florida's Dean's List (2 semesters)
+University of Central Florida's Dean's List (3 semesters)
 
 # Relevant Coursework
 Concepts of Parallel Distributed Programming
@@ -31,42 +31,47 @@ Computer Science II
 
 Object Orientated Programming
 
-Programming Languages
+Machine Learning
 
 Computer Logic & Organization
 
-Enterprise Computing
+Artificial Intelligence
 
 # Experience
-**Levil Aviation** | Software Engineer Intern | Feb 2017 - Jul 2018 | Orlando FL
-* Developed both iOS and Android Applications
-* Worked with WIFI firmware updates and wireless data transfers
-* Programmed microcontrollers embedded in company hardware
-* Designed iOS and Android user interfaces
-
-**BAM German Bakery** | Web Developer | May 2015 - Jul 2018 | Cape Coral FL
-* Designed and developed full website
-* Utilized HTML and CSS to create fluid, functional site
-* Worked solely on the project, managing work to meet deadlines
-
-**Edge Realty Advisors** | IT Support Technician | May 2015 - Present | Orlando FL
-* Aided in development of Microsoft Office add-ins using Visual Basic for Applications
-* Utilized programming skills to create functional additions for Microsoft Word and Excel
-* Provided technical support including setting up remote desktops and daily backup servers
+**The Walt Disney Company** | Labor Systems Professional Intern | June 2019 - Jan 2020 | Orlando FL
+* Developed automation systems using Python
+* Organized and delivered executive updates to higher ups
+* Researched and produced data driven insights into labor scheduling metrics
 
 **University of Central Florida** | Senior Design Project | Sept 2018 - Present | Orlando FL
 * Led team as project manager, organizing and facilitating team and sponsor meetings, managing deadlines
 * Used ReactJS on the front-end team to create a functional and user-friendly interface for big data visualizations
 * Coordinated with back-end team to interface with the project’s back-end infrastructure using our API
 
+**Levil Aviation** | Software Engineer Intern | Feb 2017 - Jul 2018 | Orlando FL
+* Developed and designed both iOS and Android applications
+* Developed WIFI firmware updates and wireless data transfers
+* Programmed microcontrollers embedded in company hardware
+
+# Projects
+[Freshify](http://freshify.herokuapp.com) | Spotify Playlist Auto Updater
+*	Programmed web application front end using ReactJS, interfaced with AWS DynamoDB backend
+* Utilized AWS Cognito for securing user credentials
+* Interfaced with Spotify API to provide application core functionality
+
+**NFL Score Predictor** | Machine Learning Practice Project
+* Utilized Selenium and BeautifulSoup to webscrape relevant data for machine learning
+* Utilized Pandas and Python to clean data in preparation for machine learning
+* Utilized scikit-learn and Python to produce close to 82% training accuracy of predicting NFL winners in 2018-19 season
+
 # Skills
 _**Programming**_
 
-Highly skilled in Java, proficient in C, HTML, CSS, Python, knowledge in PHP, Haskell, R, JavaScript
+Highly skilled in Java, proficient in C, HTML, CSS, Python, JavaScript, knowledge in PHP, Haskell, R
 
-Knowledge in using ReactJS, Electron, Postman, MongoDB, AWS Cognito, AWS DynamoDB
+Knowledge in using ReactJS, Electron, Postman, MongoDB, AWS Cognito, AWS DynamoDB, AWS Cognito
 
-Knowledge in Git, Latex, knowledge in using Octave, XCode, Android Studio, Wordpress
+Knowledge in Git, Latex, knowledge in using XCode, Android Studio, Wordpress
 
 _**Certifications**_
 
