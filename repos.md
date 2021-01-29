@@ -5,13 +5,17 @@ title: Repos
 
 # My Public Projects (Worth Looking At)
 
-## [Freshify](https://freshify.herokuapp.com)
+## [Football Machine Learning Project](https://github.com/jpollmann102/football-ml-site)
 
-Freshify is a site I made for keeping your playlists on Spotify up to date automatically. I personally like having a playlist with new songs that I rotate in and out after a month or so. However doing so manually can be a hassle. Using Freshify, you can designate playlists and a set amount of time to remove songs after. I really learned a lot in making Freshify, I got my hands dirty with AWS in using Cognito and DynamoDB for user accounts and information. Additionally, I got experience using the Spotify API along with some user created wrappers for doing that easier. Finally, the best experience I gained was in actually finishing something I started, and getting a production build deployed somewhere where people can actually use it. In doing so I learned a lot about deploying to Heroku, and setting up projects for production. Not to mention, I have furthered my experience using Node, React and Material UI to build applications.
+Also on this page is another attempt at learning machine learning concepts through football predictions, but this project includes an Angular site with the data used in the model training. The site also includes some meta information on the models I tried training and statistics about their success.
 
 ## [Mangrove - The Soundscape Ecology Analysis Toolkit](https://github.com/jonathanbeever/mangrove)
 
 Mangrove is by far the project I am most proud of. This was my senior design project at UCF, amongst my team of 4 other great programmers. Mangrove is a place for soundscape ecology researchers to organize their data (which happens to be terabytes of sound files) and process them in order to visualize the results. Soundscape ecology is a new field with a lot of potential that I'm hoping Mangrove has a chance to be involved in as it grows larger.
+
+## [Pickle Bot](https://github.com/jpollmann102/pickle-bot)
+
+This is a Discord bot I made for posting pictures of my cat, Pickle (who you can see pics of on the blog portion of this site) when typing !piggle or !pickle. Just for funsies.
 
 ## [Reddit StackOverflow Bot](https://github.com/jpollmann102/reddit-stackoverflow-bot)
 
