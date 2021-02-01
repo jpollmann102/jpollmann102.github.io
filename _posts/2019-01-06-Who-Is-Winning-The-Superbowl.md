@@ -1,5 +1,6 @@
 ---
 layout: post
+type: post
 excerpt: The predicted winner of this year's Superbowl, brought to you by mathematics
 ---
 

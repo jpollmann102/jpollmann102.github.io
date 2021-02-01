@@ -1,5 +1,6 @@
 ---
 layout: post
+type: post
 excerpt: Predictions for the NFL playoffs Wildcard round
 ---
 

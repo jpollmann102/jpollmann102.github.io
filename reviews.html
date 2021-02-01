@@ -5,10 +5,12 @@ title: Reviews
 <h1>Latest Reviews</h1>
 
 <ul>
-  {% for review in site.reviews %}
+  {% for review in site.posts %}
+  {% if review.type == 'review' %}>
   <li>
     <h2><a href="{{ review.url }}">{{ review.title }}</a></h2>
     <p>{{ review.excerpt }}</p>
   </li>
+  {% endif %}
   {% endfor %}
 </ul>

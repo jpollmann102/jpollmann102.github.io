@@ -1,5 +1,6 @@
 ---
 layout: post
+type: post
 excerpt: My thoughts and opinions on the free Stanford online Machine Learning course provided by Coursera
 ---
 

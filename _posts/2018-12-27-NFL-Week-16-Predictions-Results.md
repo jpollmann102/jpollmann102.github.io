@@ -1,5 +1,6 @@
 ---
 layout: post
+type: post
 excerpt: My machine learning program's predictions and results for the NFL week 16 games, and what I've learned
 ---
 

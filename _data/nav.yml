@@ -4,9 +4,9 @@
   link: /about.html
 - name: Blog
   link: /blog.html
+- name: Reviews
+  link: /reviews.html
 - name: Repos
   link: /repos.html
 - name: Resume
   link: /resume.html
-- name: Reviews
-  link: /reviews.html

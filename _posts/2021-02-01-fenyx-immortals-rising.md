@@ -1,5 +1,6 @@
 ---
 layout: post
+type: review
 excerpt: A great Breathlike (is that a thing now?) with a really engaging story for Greek mythology lovers and novices alike
 ---
 Immortals Fenyx Rising is considered by most to be a Breath of the Wild clone, which as far as I know (maybe aside from Genshin Impact from what I hear) is the first of its kind to work off of the 2017 masterpiece's formula.
