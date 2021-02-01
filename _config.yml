@@ -4,3 +4,6 @@ repository: jpollmann102/jpollmann102.github.io
 theme: jekyll-theme-cayman
 # Google Analytics
 google_analytics: UA-131255669-1
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
