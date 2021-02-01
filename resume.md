@@ -54,15 +54,21 @@ Artificial Intelligence
 * Programmed microcontrollers embedded in company hardware
 
 # Projects
-[Freshify](http://freshify.herokuapp.com) | Spotify Playlist Auto Updater
-*	Programmed web application front end using ReactJS, interfaced with AWS DynamoDB backend
-* Utilized AWS Cognito for securing user credentials
-* Interfaced with Spotify API to provide application core functionality
-
 **NFL Score Predictor** | Machine Learning Practice Project
 * Utilized Selenium and BeautifulSoup to webscrape relevant data for machine learning
 * Utilized Pandas and Python to clean data in preparation for machine learning
 * Utilized scikit-learn and Python to produce close to 82% training accuracy of predicting NFL winners in 2018-19 season
+
+**Mangrove - Soundscape Ecology Analysis Toolkit** | Senior Design Project
+*	Led team as project manager, organizing and facilitating team and sponsor meetings, managing deadlines
+*	Coordinated with backend team to interface with the project’s back-end infrastructure using team built API
+*	Used React and Electron on the frontend team to create a functional and user-friendly interface for big data visualizations and library management
+
+**NFL Scores Predictions Website** | Machine Learning Practice Project
+*	Utilize pandas and scikit-learn to clean, examine, and transform initial open-source data into insightful and machine learning ready data
+*	Perform scikit-learn model tuning and training functions to create models for predicting NFL scores
+*	Create frontend site using Angular to display predictions from models along with other NFL statistics and scores
+
 
 # Skills
 _**Programming**_
