@@ -6,7 +6,7 @@ title: Reviews
 
 <ul>
   {% for review in site.posts %}
-  {% if review.type == 'review' %}>
+  {% if review.type == 'review' %}
   <li>
     <h2><a href="{{ review.url }}">{{ review.title }}</a></h2>
     <p>{{ review.excerpt }}</p>
