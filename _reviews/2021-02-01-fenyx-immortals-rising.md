@@ -1,5 +1,5 @@
 ---
-layout: review
+layout: post
 type: Video Game
 excerpt: A great Breathlike (is that a thing now?) with a really engaging story for Greek mythology lovers and novices alike
 ---

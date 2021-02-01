@@ -7,7 +7,7 @@ title: Reviews
 <ul>
   {% for review in site.reviews %}
   <li>
-    <h2><a href="{{ review.url }}">{{ review.title }}</a></h2>
+    <h2><a href="{{ review.url }}">{{ review.title }} - {{ review.type }}</a></h2>
     <p>{{ review.excerpt }}</p>
   </li>
   {% endfor %}
