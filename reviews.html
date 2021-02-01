@@ -1,0 +1,14 @@
+---
+layout: default
+title: Reviews
+---
+<h1>Latest Reviews</h1>
+
+<ul>
+  {% for review in site.reviews %}
+  <li>
+    <h2><a href="{{ review.url }}">{{ review.title }} - {{ post.type }}</a></h2>
+    <p>{{ review.excerpt }}</p>
+  </li>
+  {% endfor %}
+</ul>
