@@ -1,6 +1,5 @@
 ---
 layout: post
-type: Video Game
 excerpt: A great Breathlike (is that a thing now?) with a really engaging story for Greek mythology lovers and novices alike
 ---
 Immortals Fenyx Rising is considered by most to be a Breath of the Wild clone, which as far as I know (maybe aside from Genshin Impact from what I hear) is the first of its kind to work off of the 2017 masterpiece's formula.
@@ -25,3 +24,4 @@ Overall, I really enjoyed my time with Fenyx. At no point did I want to rush the
 
 **Hours spent:** ~40
 **Score:** 9/10
+[Immortals Fenyx Rising Amazon PS5](https://www.amazon.com/Immortals-Fenyx-Rising-PlayStation-5-Standard/dp/B08HTF5KKB)
