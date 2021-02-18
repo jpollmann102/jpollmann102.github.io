@@ -5,10 +5,9 @@ title: Resume
 ### Email: joshpollmann102@gmail.com
 # Summary Of Qualifications
 
-* Over seven years of programming/computer experience
-* Skills range from hardware installation and maintenance to software programming
-* Excellent at communicating and working in groups, while being able to work efficiently when alone
-* Excellent technical writing skills
+* Over six years of programming/computer experience as a hobby, close to two years professionally
+* Efficient, adaptive, and eager to learn
+* Excellent technical writing and communication skills, along with a positive attitude and desire for teamwork
 
 # Education
 ## University of Central Florida
@@ -19,41 +18,33 @@ May 2019
 University of Central Florida's Dean's List (3 semesters)
 
 # Relevant Coursework
-Concepts of Parallel Distributed Programming
+Computer Science I & II
+
+Programming Languages
+
+Operating Systems
+
+Parallel Distributed Programming
+
+Computer Security
+
+Systems Software
 
 Artificial Intelligence
 
-Processes for Object Orientated Software
-
-Database Systems
-
-Computer Science II
-
-Object Orientated Programming
-
-Machine Learning
-
-Computer Logic & Organization
-
-Artificial Intelligence
+Object Oriented Programming
 
 # Experience
-**The Walt Disney Company** | Labor Systems Professional Intern | June 2019 - Jan 2020 | Orlando FL
-* Developed automation systems using Python
-* Organized and delivered executive updates to higher ups
-* Researched and produced data driven insights into labor scheduling metrics
 
-**University of Central Florida** | Senior Design Project | Sept 2018 - Present | Orlando FL
-* Led team as project manager, organizing and facilitating team and sponsor meetings, managing deadlines
-* Used ReactJS on the front-end team to create a functional and user-friendly interface for big data visualizations
-* Coordinated with back-end team to interface with the project’s back-end infrastructure using our API
-
-**Levil Aviation** | Software Engineer Intern | Feb 2017 - Jul 2018 | Orlando FL
-* Developed and designed both iOS and Android applications
-* Developed WIFI firmware updates and wireless data transfers
-* Programmed microcontrollers embedded in company hardware
+**The Walt Disney Company - Parks, Experiences and Products** | Professional Intern & Project Analyst | June 2019 - Current | Orlando FL
+* Lead full stack web application projects for systems dashboarding with REST APIs using Angular, NodeJS, and deploying with Docker
+* Design and implement full stack proof of concept web application with REST API for shift optimization and selection using React, NodeJS, and SQL server
+* Design and program solutions using Python for diverse problems presented by partners or clients
+* Created Labor Systems organization’s first in house web application and REST API to pass Disney security penetration testing
+* Communicate with partner teams and clients to derive requirements and realize deadlines
 
 # Projects
+
 **NFL Score Predictor** | Machine Learning Practice Project
 * Utilized Selenium and BeautifulSoup to webscrape relevant data for machine learning
 * Utilized Pandas and Python to clean data in preparation for machine learning
@@ -73,12 +64,24 @@ Artificial Intelligence
 # Skills
 _**Programming**_
 
-Highly skilled in Java, proficient in C, HTML, CSS, Python, JavaScript, knowledge in PHP, Haskell, R
+JavaScript, TypeScript, Python, SQL, HTML, CSS, SASS, Java, OOP Concepts
 
-Knowledge in using ReactJS, Electron, Postman, MongoDB, AWS Cognito, AWS DynamoDB, AWS Cognito
+_**Libraries**_
 
-Knowledge in Git, Latex, knowledge in using XCode, Android Studio, Wordpress
+scikit-learn, pandas, NumPy, Bootstrap
 
-_**Certifications**_
+_**Platforms**_
 
-Certified in Microsoft Office (Word, Excel, Access, Powerpoint)
+Angular, NodeJS, NPM
+
+_**Tools**_
+
+Docker, Airflow, Github/Git, LaTeX, Jira
+
+_**Software**_
+
+Microsoft Office, Windows OS, Linux Red Hat
+
+_**Language**_
+
+English (native), German (intermediate reading/writing, basic speaking)
