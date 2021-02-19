@@ -5,6 +5,10 @@ title: Repos
 
 # My Public Projects (Worth Looking At)
 
+## [Table Topper](https://table-topper.herokuapp.com/)
+
+I'm a big fan of board games, and also a big fan of Angular. So, to demonstrate my Angular abilities I made a site for board games. This site uses Board Game Atlas as an API to populate data. The repo can be found [here](https://github.com/jpollmann102/table-topper)
+
 ## [Football Machine Learning Project](https://github.com/jpollmann102/football-ml-site)
 
 Also on this page is another attempt at learning machine learning concepts through football predictions, but this project includes an Angular site with the data used in the model training. The site also includes some meta information on the models I tried training and statistics about their success.
