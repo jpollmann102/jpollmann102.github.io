@@ -5,9 +5,10 @@ title: Resume
 ### Email: joshpollmann102@gmail.com
 # Summary Of Qualifications
 
-* Over six years of programming/computer experience as a hobby, close to two years professionally
+* Over nine years of programming/computer experience as a hobby, close to three years professionally
 * Efficient, adaptive, and eager to learn
 * Excellent technical writing and communication skills, along with a positive attitude and desire for teamwork
+* Looking to continue my professional career in an environment where I can continue to learn new technologies and languages and contribute to great software and products.
 
 # Education
 ## University of Central Florida
@@ -36,10 +37,9 @@ Object Oriented Programming
 
 # Experience
 
-**The Walt Disney Company - Parks, Experiences and Products** | Professional Intern & Project Analyst | June 2019 - Current | Orlando FL
-* Lead full stack web application projects for systems dashboarding with REST APIs using Angular, NodeJS, and deploying with Docker
-* Design and implement full stack proof of concept web application with REST API for shift optimization and selection using React, NodeJS, and SQL server
-* Design and program solutions using Python for diverse problems presented by partners or clients
+**The Walt Disney Company - Parks, Experiences and Products** | Solutions Analyst | June 2019 - Current | Orlando FL
+* Design and implement full stack web applications with REST APIs using React, NodeJS, SQL server, and Docker, supporting 600 plus internal users in business units and park operations
+* Design and implement data solutions using Python for diverse problems presented by business partners
 * Created Labor Systems organization’s first in house web application and REST API to pass Disney security penetration testing
 * Communicate with partner teams and clients to derive requirements and realize deadlines
 
@@ -68,19 +68,19 @@ JavaScript, TypeScript, Python, SQL, HTML, CSS, SASS, Java, OOP Concepts
 
 _**Libraries**_
 
-scikit-learn, pandas, NumPy, Bootstrap
+Bootstrap, express, React, mongoose, Redux
 
 _**Platforms**_
 
-Angular, NodeJS, NPM
+Angular, NodeJS, NPM, MSSQL, Heroku, MongoDB
 
 _**Tools**_
 
-Docker, Airflow, Github/Git, LaTeX, Jira
+Docker, Github/Git, LaTeX, Jira, Postman
 
 _**Software**_
 
-Microsoft Office, Windows OS, Linux Red Hat
+Microsoft Office, Windows, Linux Redhat
 
 _**Language**_
 
