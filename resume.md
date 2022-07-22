@@ -5,10 +5,10 @@ title: Resume
 ### Email: joshpollmann102@gmail.com
 # Summary Of Qualifications
 
-* Over nine years of programming/computer experience as a hobby, close to three years professionally
+* Over three years of full stack development experience professionally, and nine years of programming/computer experience as a hobby
 * Efficient, adaptive, and eager to learn
-* Excellent technical writing and communication skills, along with a positive attitude and desire for teamwork
-* Looking to continue my professional career in an environment where I can continue to learn new technologies and languages and contribute to great software and products.
+* Excellent technical writing and communication skills, experience leading interns, and with a positive attitude and desire for collaboration
+* Looking to continue my professional career in an environment where I can continue to learn new technologies and languages and contribute to great software and products
 
 # Education
 ## University of Central Florida
@@ -55,6 +55,12 @@ Object Oriented Programming
 *	Coordinated with backend team to interface with the project’s back-end infrastructure using team built API
 *	Used React and Electron on the frontend team to create a functional and user-friendly interface for big data visualizations and library management
 
+**ProTechSign - Secure Signature Card Generation** | Developer
+*	Design and implement frontend using Angular and interfacing with Firebase leveraged Firestore, Realtime Database, Cloud Storage and Google Cloud Function instances
+*	Program security rules and functionality in both the frontend and the Google Cloud Platform services
+*	Design and implement product marketing home pages, along with marketing the product itself
+*	Develop Python driven Google Cloud Function for quick signature generation by users via frontend
+
 **NFL Scores Predictions Website** | Machine Learning Practice Project
 *	Utilize pandas and scikit-learn to clean, examine, and transform initial open-source data into insightful and machine learning ready data
 *	Perform scikit-learn model tuning and training functions to create models for predicting NFL scores
@@ -64,15 +70,15 @@ Object Oriented Programming
 # Skills
 _**Programming**_
 
-JavaScript, TypeScript, Python, SQL, HTML, CSS, SASS, Java, OOP Concepts
+JavaScript, TypeScript, Python, SQL, HTML, CSS, SASS, Java, OOP Concepts, Document Storage, can learn more easily
 
 _**Libraries**_
 
-Bootstrap, express, React, mongoose, Redux
+Bootstrap, Express, Angular Firebase
 
 _**Platforms**_
 
-Angular, NodeJS, NPM, MSSQL, Heroku, MongoDB
+Angular, NodeJS, NPM, MSSQL, Heroku, Google Firebase, Google Firestore & RTDB, Google Cloud Functions, Google Cloud Storage
 
 _**Tools**_
 
