@@ -5,9 +5,13 @@ title: Repos
 
 # My Public Projects (Worth Looking At)
 
+## [Sleeper Report](https://github.com/jpollmann102/sleeper-report)
+
+I am very much involved in fantasy football, and I created a dynasty league in 2022 with 11 of my friends through the Sleeper platform. Coming from CBS and ESPN platforms, I noticed Sleeper is missing a lot of cool in depth stats and league rankings, so I wanted to make a supplementary site for just those things. Sleeper Report is the product of this idea. Built using Angular and Google Firebase.
+
 ## [Table Topper](https://table-topper.herokuapp.com/)
 
-I'm a big fan of board games, and also a big fan of Angular. So, to demonstrate my Angular abilities I made a site for board games. This site uses Board Game Atlas as an API to populate data. The repo can be found [here](https://github.com/jpollmann102/table-topper)
+I'm a big fan of board games, and also a big fan of Angular. So, to demonstrate my Angular abilities I made a site for board games. This site uses Board Game Atlas as an API to populate data. The repo can be found [here.](https://github.com/jpollmann102/table-topper)
 
 ## [Football Machine Learning Project](https://github.com/jpollmann102/football-ml-site)
 
