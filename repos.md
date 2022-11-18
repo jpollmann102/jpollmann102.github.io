@@ -5,6 +5,10 @@ title: Repos
 
 # My Public Projects (Worth Looking At)
 
+## [JB Travels](https://jb-travels.web.app)
+
+My fiancee and I love to travel, although I wish we got to do so more often. I made this site to help us get a worldwide view of our travels, and drill down to the locations we've visited and revisit memories via photos in these places. Just a nice site for showing off our travel trips and photos. With this site, I continued to gain experience with Firebase/GCP, as well as learning a new mapping library AM5.
+
 ## [Sleeper Report](https://github.com/jpollmann102/sleeper-report)
 
 I am very much involved in fantasy football, and I created a dynasty league in 2022 with 11 of my friends through the Sleeper platform. Coming from CBS and ESPN platforms, I noticed Sleeper is missing a lot of cool in depth stats and league rankings, so I wanted to make a supplementary site for just those things. Sleeper Report is the product of this idea. Built using Angular and Google Firebase.
